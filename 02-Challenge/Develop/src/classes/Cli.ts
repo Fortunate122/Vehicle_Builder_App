@@ -266,7 +266,7 @@ class Cli {
         }
         
         if (!this.exit) {
-          this.performActions();
+          this.performActions(); 
         }
       });
   }
