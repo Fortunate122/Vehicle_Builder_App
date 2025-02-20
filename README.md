@@ -10,6 +10,7 @@ The application prompts the user to create a new vehicle or select an existing v
 - [Learning](#learning)
 - [Standout](#standout)
 - [Questions](#questions)
+- [RepositoryLink](#repositorylink)
 - [VideoLink](#videolink)
 
 ## Motivation
@@ -32,5 +33,8 @@ If you have any questions, please reach out to me via:
 - GitHub: [Fortunate122](https://github.com/Fortunate122)
 - Email: davidsaldana122@gmail.com
 
+## RepositoryLink
+https://github.com/Fortunate122/Vehicle_Builder_App
+
 ## VideoLink
-VideoLink to be added during testing phase.
+https://drive.google.com/file/d/17eMY5t8aACiq8urOk2owX6HKY_5kXEO7/view
